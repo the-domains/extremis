@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EXTREMIS by Steven Mautone]]></title>
+        <description><![CDATA[EXTREMIS by Steven Mautone]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 03:39:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Google Profiles" src="https://lh3.googleusercontent.com/-YHkRnkoszNI/VWM912Nib9I/AAAAAAAADDs/R8OkC2DzFps/w426-h356/geekprideday%2B472x394.jpg">]]></description>
+            <link>https://plus.google.com/collection/4tGYa</link>
+            <guid isPermaLink="false">d7612086-7856-4a87-9550-e9e2df9e4c6c</guid>
+            <pubDate>Fri, 22 Jan 2016 03:39:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
