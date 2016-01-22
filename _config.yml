@@ -1,6 +1,6 @@
 name: EXTREMIS
 favicon: null
-layout_spectrum: 0.33283418882638216
+layout_spectrum: 0
 typography_spectrum: 0.7455126913264394
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#122037'
     - '#ffffff'
     - '#c8d2dc'
-  brandStrength: 0.5897548384964466
+  brandStrength: 0.5
   lightness: 0.7497664471156895
   saturation: 0.45324828871525824
   rhythmicContrast: 0.39276638929732144
