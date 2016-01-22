@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-60183671-2
   facebook: null
   twitter: null
 opengraph:
