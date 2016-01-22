@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[EXTREMIS by Steven Mautone]]></title>
         <description><![CDATA[EXTREMIS by Steven Mautone]]></description>
-        <link>https://thegrid.ai/extremis/</link>
+        <link>http://extremis.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 04:29:21 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/extremis/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 20:30:27 GMT</lastBuildDate>
+        <atom:link href="http://extremis.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ubiquitous Computing]]></title>
+            <description><![CDATA[<article><h1>Ubiquitous Computing</h1><p>This is a Collection on Google+ focused on discussing Ubiquitous Computing: everything from Wearables to the Internet of Things.</p></article>]]></description>
+            <link>http://extremis.com/ubiquitous-computing/index.html</link>
+            <guid isPermaLink="false">1c0a012d-4313-45f1-b997-49ec8bef2aeb</guid>
+            <pubDate>Fri, 22 Jan 2016 20:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Google Profiles" src="https://lh3.googleusercontent.com/-acKCam1-79M/VqDot8vwW8I/AAAAAAABKQA/3KEAv-1kTaM/w426-h568/batman_petrpassek_artwork.jpg">]]></description>
