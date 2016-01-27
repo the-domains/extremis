@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[EXTREMIS by Steven Mautone]]></title>
-        <description><![CDATA[EXTREMIS by Steven Mautone]]></description>
+        <title><![CDATA[EXTREMIS]]></title>
+        <description><![CDATA[EXTREMIS]]></description>
         <link>http://extremis.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 20:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 03:22:09 GMT</lastBuildDate>
         <atom:link href="http://extremis.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ubiquitous Computing]]></title>
@@ -12,13 +12,6 @@
             <link>http://extremis.com/ubiquitous-computing/index.html</link>
             <guid isPermaLink="false">1c0a012d-4313-45f1-b997-49ec8bef2aeb</guid>
             <pubDate>Fri, 22 Jan 2016 20:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Google Profiles" src="https://lh3.googleusercontent.com/-acKCam1-79M/VqDot8vwW8I/AAAAAAABKQA/3KEAv-1kTaM/w426-h568/batman_petrpassek_artwork.jpg">]]></description>
-            <link>https://plus.google.com/collection/QHUda</link>
-            <guid isPermaLink="false">2329e80e-6e66-4a34-8713-85fc8cbe3ec4</guid>
-            <pubDate>Fri, 22 Jan 2016 04:29:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
