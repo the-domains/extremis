@@ -7,9 +7,9 @@ color:
     - '#122037'
     - '#ffffff'
     - '#c8d2dc'
-  brandStrength: 0.1875
+  brandStrength: 0
   lightness: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
   saturation: 1
 cta: {}
 layout_spectrum: 1
