@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[EXTREMIS]]></title>
-        <description><![CDATA[EXTREMIS]]></description>
-        <link>http://extremis.com/</link>
+        <title><![CDATA[#ifihadglass; My Life #throughglass]]></title>
+        <description><![CDATA[#ifihadglass; My Life #throughglass]]></description>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 03:22:09 GMT</lastBuildDate>
-        <atom:link href="http://extremis.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ubiquitous Computing]]></title>
-            <description><![CDATA[<article><h1>Ubiquitous Computing</h1><p>This is a Collection on Google+ focused on discussing Ubiquitous Computing: everything from Wearables to the Internet of Things.</p></article>]]></description>
-            <link>http://extremis.com/ubiquitous-computing/index.html</link>
-            <guid isPermaLink="false">1c0a012d-4313-45f1-b997-49ec8bef2aeb</guid>
-            <pubDate>Fri, 22 Jan 2016 20:30:20 GMT</pubDate>
-        </item>
+        <lastBuildDate>Sun, 31 Jan 2016 15:33:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Google Profiles" src="https://lh3.googleusercontent.com/-YHkRnkoszNI/VWM912Nib9I/AAAAAAAADDs/R8OkC2DzFps/w426-h356/geekprideday%2B472x394.jpg">]]></description>
-            <link>https://plus.google.com/collection/4tGYa</link>
-            <guid isPermaLink="false">d7612086-7856-4a87-9550-e9e2df9e4c6c</guid>
-            <pubDate>Fri, 22 Jan 2016 03:39:27 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426f1c36-8852-4dba-9b6c-da1acbf7ed5e.jpg">]]></description>
+            <link>undefined7cdd1d17-0334-4d3c-8d50-980ced482ba7/index.html</link>
+            <guid isPermaLink="false">7cdd1d17-0334-4d3c-8d50-980ced482ba7</guid>
+            <pubDate>Sun, 31 Jan 2016 15:33:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
