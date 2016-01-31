@@ -1,5 +1,20 @@
+name: EXTREMIS
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.65933
+title: '#ifihadglass; My Life #throughglass'
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-60183671-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#0064ee'
@@ -9,11 +24,6 @@ color:
     - '#c8d2dc'
   brandStrength: 0
   lightness: 0
-  rhythmicContrast: 0
   saturation: 1
-cta: {}
-layout_spectrum: 1
-name: EXTREMIS
-opengraph: {}
+  rhythmicContrast: 0
 purpose: []
-typography_spectrum: 0.65933
