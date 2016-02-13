@@ -2,18 +2,18 @@ analytics:
   google: UA-60183671-2
 color:
   brandColors:
-    - '#0064ee'
-    - '#6c9ad2'
-    - '#122037'
-    - '#ffffff'
-    - '#c8d2dc'
-  brandStrength: 0
+    - '#B0B8C0'
+    - '#408098'
+    - '#888080'
+    - '#F85028'
+    - '#50A8D0'
+  brandStrength: 0.66694
   lightness: 1
   rhythmicContrast: 0
   saturation: 1
 cta: {}
 layout_spectrum: 1
-name: '#throughglass'
+name: '#ifihadglass'
 opengraph: {}
 purpose: []
 typography_spectrum: 0.65933
