@@ -8,12 +8,12 @@ color:
     - '#ffffff'
     - '#c8d2dc'
   brandStrength: 0
-  lightness: 0
+  lightness: 1
   rhythmicContrast: 0
   saturation: 1
 cta: {}
 layout_spectrum: 1
-name: EXTREMIS
+name: '#throughglass'
 opengraph: {}
 purpose: []
 typography_spectrum: 0.65933
