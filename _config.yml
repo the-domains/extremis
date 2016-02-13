@@ -1,19 +1,28 @@
+name: '#ifihadglass'
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.65933
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-60183671-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#B0B8C0'
-    - '#408098'
-    - '#888080'
-    - '#F85028'
-    - '#50A8D0'
+    - '#fefefe'
+    - '#252326'
+    - '#78736d'
+    - '#4bb7e6'
+    - '#e95a52'
   brandStrength: 0
   lightness: 1
-  rhythmicContrast: 0
   saturation: 1
-cta: {}
-layout_spectrum: 1
-name: '#ifihadglass'
-opengraph: {}
+  rhythmicContrast: 0
 purpose: []
-typography_spectrum: 0.65933
