@@ -7,10 +7,10 @@ color:
     - '#888080'
     - '#F85028'
     - '#50A8D0'
-  brandStrength: 0.339638
+  brandStrength: 0
   lightness: 1
   rhythmicContrast: 0
-  saturation: 0.508223
+  saturation: 1
 cta: {}
 layout_spectrum: 1
 name: '#ifihadglass'
