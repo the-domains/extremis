@@ -2,23 +2,30 @@
     <channel>
         <title><![CDATA[#ifihadglass]]></title>
         <description><![CDATA[#ifihadglass]]></description>
-        <link>http://extremis.com/</link>
+        <link>http://ifihadglass.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 18:07:44 GMT</lastBuildDate>
-        <atom:link href="http://extremis.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 17:27:18 GMT</lastBuildDate>
+        <atom:link href="http://ifihadglass.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Chip #throughglass]]></title>
-            <description><![CDATA[<article><h1>Chip #throughglass</h1><p>One of the best things about Google Glass is the ability to take photos without using your hands. It opens the door to a new style of photography!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65090a5ce4494654be547b068bcccae61aec0966.jpg"></article>]]></description>
-            <link>http://extremis.com/chip-throughglass/index.html</link>
-            <guid isPermaLink="false">c4544ee4-a885-4917-a30c-4f39fa30d909</guid>
-            <pubDate>Sat, 13 Feb 2016 18:05:33 GMT</pubDate>
+            <title><![CDATA[ifihadglass.com]]></title>
+            <description><![CDATA[<article><h1>ifihadglass.com</h1><h2>is built using TheGrid.io to showcase my experiences with Google Glass.</h2></article>]]></description>
+            <link>http://ifihadglass.com/ifihadglasscom/index.html</link>
+            <guid isPermaLink="false">ee7cc991-3cec-477c-b221-173874306a30</guid>
+            <pubDate>Fri, 13 May 2016 17:26:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pick-up Appointment]]></title>
             <description><![CDATA[<article><h1>Pick-up Appointment</h1><p>7/1/2013 5:30 PM Port Authority Small Boat Ramp, Pier 1.5 The Embarcadero, San Francisco CA 94111</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bf8c5f1b54f002d54f6bd17425b507bd984c4a8.jpg"></article>]]></description>
-            <link>http://extremis.com/7cdd1d17-0334-4d3c-8d50-980ced482ba7/index.html</link>
+            <link>http://ifihadglass.com/7cdd1d17-0334-4d3c-8d50-980ced482ba7/index.html</link>
             <guid isPermaLink="false">7cdd1d17-0334-4d3c-8d50-980ced482ba7</guid>
             <pubDate>Sat, 13 Feb 2016 18:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chip #throughglass]]></title>
+            <description><![CDATA[<article><h1>Chip #throughglass</h1><p>One of the best things about Google Glass is the ability to take photos without using your hands. It opens the door to a new style of photography!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65090a5ce4494654be547b068bcccae61aec0966.jpg"></article>]]></description>
+            <link>http://ifihadglass.com/chip-throughglass/index.html</link>
+            <guid isPermaLink="false">c4544ee4-a885-4917-a30c-4f39fa30d909</guid>
+            <pubDate>Sat, 13 Feb 2016 18:05:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
