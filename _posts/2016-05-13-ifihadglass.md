@@ -1,22 +1,29 @@
 ---
-dateModified: '2016-05-13T16:32:03.503Z'
-datePublished: '2016-05-13T16:32:14.798Z'
-hasPage: false
 inFeed: true
+hasPage: true
 inNav: false
-title: '#ifihadglass'
-description: '#ifihadglass.com'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-13T17:26:52.021Z'
+dateModified: '2016-05-13T17:26:48.901Z'
+title: ifihadglass.com
 author: []
-starred: false
 sourcePath: _posts/2016-05-13-ifihadglass.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
+url: ifihadglasscom/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# \#ifihadglass
+# [ifihadglass.com][0]
 
-\#ifihadglass.com
+## is built using TheGrid.io to showcase my experiences with Google Glass.
 
-------------------------
-
-More here...
+[0]: https://ifihadglass.com/
