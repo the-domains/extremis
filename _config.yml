@@ -1,4 +1,4 @@
-typography_spectrum: 0.65933
+typography_spectrum: 0.6224427097477019
 color:
   brandColors:
     - '#fefefe'
@@ -14,7 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 1
+layout_spectrum: 0.7115045711398125
 analytics:
   google: UA-76713926-4
   facebook: null
