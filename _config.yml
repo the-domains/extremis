@@ -19,12 +19,15 @@ analytics:
   google: UA-76713926-4
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a132f0c2-2389-477a-b4b7-269b3fa098ac.png
 name: '#ifihadglass'
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: '#ifihadglass'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfccda81-9277-4173-9aa6-7ae58b96d967.png
+title: 'Adventures #throughglass'
 description: 'Adventures #throughglass'
 purpose: []
