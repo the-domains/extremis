@@ -1,21 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-05-13T17:34:06.672Z'
-dateModified: '2016-05-13T17:33:56.175Z'
-title: ifihadglass.com
-author: []
+datePublished: '2016-08-03T14:07:42.064Z'
 sourcePath: _posts/2016-05-13-ifihadglass.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-03T14:07:41.737Z'
+title: ifihadglass.com
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+via: {}
 starred: true
 url: ifihadglasscom/index.html
 _context: 'http://schema.org'
