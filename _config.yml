@@ -19,6 +19,10 @@ analytics:
   google: UA-76713926-4
   facebook: null
   twitter: null
+author:
+  name: Steven Mautone
+  email: stevenmautone@gmail.com
+  url: 'https://stevenmautone.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a132f0c2-2389-477a-b4b7-269b3fa098ac.png
 name: '#ifihadglass'
